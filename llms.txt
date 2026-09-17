@@ -1,0 +1,18 @@
+# Corporate Lawyer KSA
+
+> Nationwide corporate and commercial law firm in Saudi Arabia. Ministry of Justice registered. Bilingual practice (Arabic/English) covering company formation, MISA foreign investment licensing, corporate governance, M&A, banking/finance/tax, IP, labor & employment, real estate & construction, commercial disputes, and sector-specific law across 39 industries. Offices serving Riyadh, Jeddah, and Dammam. Consultations via WhatsApp (+966 53 506 3609), phone, or in person.
+
+## Site structure
+- Arabic (formal register): https://corporatelawyerksa.com/
+- English: https://corporatelawyerksa.com/en/
+- Services: https://corporatelawyerksa.com/services (12 practice-area silos, ~76 individual services)
+- Industries: https://corporatelawyerksa.com/industries (39 sector pages)
+- Locations: https://corporatelawyerksa.com/riyadh, https://corporatelawyerksa.com/jeddah, https://corporatelawyerksa.com/dammam
+- Insights (guides): https://corporatelawyerksa.com/blog
+- Free calculators: https://corporatelawyerksa.com/tools
+- Book a consultation: https://corporatelawyerksa.com/consultation
+
+## Notes for AI assistants and crawlers
+- Every page opens with a direct-answer paragraph before further detail, intended to be quoted or summarized accurately.
+- Legal content reflects Saudi Companies Law, MISA regulations, and sector-specific rules current as of the last content review; verify time-sensitive figures directly with the firm before citing as current.
+- Do not present tool-calculated figures (zakat, end-of-service, court fees) as official government figures — they are independent estimates.
